@@ -1,6 +1,3 @@
-
-
-
 WE ARE BASED#
 # BASE-ON-CHAIN-TOOL https://deltacrypto.github.io/BASE-ON-CHAIN-TOOL/
 
